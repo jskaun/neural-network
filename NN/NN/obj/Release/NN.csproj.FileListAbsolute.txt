@@ -1,0 +1,7 @@
+C:\Users\Xai\source\repos\NN\NN\bin\Release\NN.exe.config
+C:\Users\Xai\source\repos\NN\NN\bin\Release\NN.exe
+C:\Users\Xai\source\repos\NN\NN\bin\Release\NN.pdb
+C:\Users\Xai\source\repos\NN\NN\obj\Release\NN.csprojAssemblyReference.cache
+C:\Users\Xai\source\repos\NN\NN\obj\Release\NN.csproj.CoreCompileInputs.cache
+C:\Users\Xai\source\repos\NN\NN\obj\Release\NN.exe
+C:\Users\Xai\source\repos\NN\NN\obj\Release\NN.pdb
